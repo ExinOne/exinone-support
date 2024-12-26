@@ -121,5 +121,5 @@ body {
     border-top: 1px solid #e8e8e8;
     padding: $spacing-unit 0;
     text-align: center;
-    color: color.adjust($text-color, $lightness: 30%);
+    color: rgba($text-color, 0.7);
 }
