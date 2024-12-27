@@ -22,7 +22,7 @@ Whether you’re an experienced trader or a long-term holder looking to earn add
 
 Dual Currency Investment products are divided into two types: “Buy Low” and “Sell High.”
 
-1. Buy Low
+**Buy Low**
 
 With Buy Low products, you have the opportunity to purchase cryptocurrency at a target price in the future. Regardless of market trends, you can still earn returns.
 
@@ -34,7 +34,7 @@ Scenarios:
 - Target Price Not Reached (Settlement Price ≥ Target Price): You won’t buy BTC, and your principal and returns will be paid in USDT.
 - Target Price Reached (Settlement Price ≤ Target Price): You will use your principal and returns to purchase BTC at $50,000.
 
-2. Sell High
+**Sell High**
 
 With Sell High products, you have the opportunity to sell cryptocurrency at a target price in the future. Regardless of market trends, you can still earn returns.
 
