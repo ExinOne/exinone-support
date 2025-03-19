@@ -3,26 +3,51 @@ title: ExinOne Pricing Rules
 layout: article
 ---
 
-## Fees
-- Exchange of versions for each currency: 0.05%
-    - Examples: USDT version convert fee is 0.05%.
-- For most coin transactions: 0.2% handling fee, which EPC can offset.
-    - Example: For ETH/USDT pairs, the transaction fee is 0.2% of the transaction amount, which EPC can offset.
-- For BOX transactions, the transaction fee rate is not higher than 1%, please refer to the page display.
-    - Currently, 0.2% of the transaction amount is charged for buying BOX, and EPC can deduct the commission.
-    - 1% handling fee for selling BOX will be charged, and EPC can not deduct the handling fee.
-    - BOX selling fees are dynamically adjusted between 0.2% and 1% and ExinOne does not promise to provide BOX trading services forever.
+# ExinOne Pricing Rules
 
-- Convert multi-step transactions are only charged once.
-    - Charging principle: the highest handling fee prevails. If one of the paths does not support EPC offset, the whole path does not support EPC offset.
-    - Example: Sell BOX to USDC, the transaction path is: BOX → USDT → USDC
-        - The BOX → USDT transaction pair charges a 1% handling fee and does not support the EPC deduction fee, and the USDT → USDC transaction pair charges a 0.05% handling fee and supports the EPC deduction fee.
-        - According to the above principles, the actual handling fee for this path is 1% and does not support the EPC deduction fee.
-- Spot market order and limit order fees are the same. Both are 0.2%, you can use EPC to offset the fees.
-- The transaction of the Auto Invest Plan is completed through Convert, and the Auto Invest Plan feature does not charge.
+ExinOne adopts an efficient One-Step service model, directly connecting to APIs of exchanges with the best depth and liquidity across the network, ensuring your transactions are executed quickly.
 
-## EPC
-- EPC is the fee point card of ExinOne, which is used to offset the transaction fee on ExinOne.
-- 100 EPC can offset the fee worth $1.
-- EPC needs to be credited to your ExinOne EPC account to be credited.
-- For more information about EPC, please see [EPC Introduction](/features/epc).
+## Fee Details
+
+### Stablecoin Version Exchange
+- **Rate**: 0.05%
+- **EPC Deduction**: ✅ Supported
+- **Example**: Exchange between different versions of USDT, only 0.05% handling fee is charged
+
+### Crypto Trading & Limit orderss
+- **Standard Rate**: 0.2%
+- **EPC Deduction**: ✅ Supported
+- **Market/Limit Orders**: Same rate of 0.2% for both
+- **Example**: For ETH/USDT trading, the fee is 0.2% of the transaction amount
+
+### Special Trading Pairs
+- **USDC/USDT**: 0.1% fee, EPC deduction supported
+
+### BOX Trading Rules
+- **Swap Buy BOX**: 0.2% fee, ✅ EPC deduction supported
+- **Swap Sell BOX**: 1% fee, ❌ EPC deduction not supported
+  - Note: Selling fees are dynamically adjusted between 0.2%-1% based on market conditions
+- **Spot & Limit Orders for BOX**: 0.2% fee across the board, ✅ EPC deduction supported
+
+### Multi-Step Transaction Rules
+- **Charging Principle**: Only charged once, with the highest handling fee prevailing
+- **EPC Deduction Rule**: If any step doesn't support EPC deduction, the entire path won't support it
+- **Example**: BOX → USDT → USDC path
+  - BOX → USDT: 1% fee, EPC deduction not supported
+  - USDT → USDC: 0.1% fee, EPC deduction supported
+  - Final charge: 1% fee, EPC deduction not supported
+
+### Other Services
+- **Auto Invest Plan**: The feature itself is free. Transactions are completed through Swap and charged according to Swap rules. This means buying tokens through Auto Invest Plan costs the same as buying directly through Swap - Auto Invest simply automates the process without additional fees.
+
+## EPC Fee Point Card
+
+- **Exchange Ratio**: 100 EPC = $1 fee deduction
+- **Usage Method**: Must be deposited to your ExinOne EPC account to be used (located in the EPC account in the upper left corner profile). If EPC balance is insufficient to cover the transaction fee, EPC deduction cannot be applied
+- **Detailed Introduction**: See [EPC Introduction](/features/epc)
+
+---
+
+Thank you for your support of ExinOne! If you have any questions, feel free to contact the ExinOne bot at any time.
+
+*Note: ExinOne reserves the right to adjust services and rates according to market conditions. Please refer to the platform's real-time display for the most current information.*
