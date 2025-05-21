@@ -10,7 +10,7 @@ layout: article
 
 在 ExinOne 的「投资」栏（原定投页面），点击顶部的「双币投资」（定投旁边），即可进入双币投资页面。
 
-
+![alt text](/assets/images/dualinvest.png)
 
 ### 具体教程
 进入双币投资页面后, 可根据提示指引进行操作投资。

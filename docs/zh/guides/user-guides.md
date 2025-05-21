@@ -69,7 +69,7 @@ ExinOne 提供行情、交易（闪兑 & 挂单）、定投、理财、借币、
 
 **EPC**
 
-EPC 是 ExinOne 的手续费点卡，在您使用 ExinOne 的过程中，出于系统安全性的考虑，会让您支付一点 EPC 用于鉴权，在您首次注册使用 ExinOne 的时候，ExinOne 会送您 1 EPC 到您的 Mixin 钱包，请确保 Mixin 钱包内存有少量的 EPC，以保证您可以顺利使用 ExinOne 的相关服务。
+EPC 是 ExinOne 的手续费点卡，在您使用 ExinOne 的过程中，出于系统安全性的考虑，会让您支付一点 EPC 用于鉴权，在您首次注册使用 ExinOne 的时候，ExinOne 会送您 0.99 EPC 到您的 Mixin 钱包，请确保 Mixin 钱包内存有少量的 EPC，以保证您可以顺利使用 ExinOne 的相关服务。
 
 如果您没有 EPC，可以通过机器人 7000105001 领取一些，更多获取 EPC 的方式，请查阅 [EPC](../features/epc) 介绍。
 
@@ -79,7 +79,7 @@ EPC 是 ExinOne 的手续费点卡，在您使用 ExinOne 的过程中，出于�
 
 **加入社群**
 
-欢迎加入 [Exin 中文群](https://exin.mixinbots.com/join)
+欢迎加入 [Exin 中文群](https://mixin.one/codes/dc8c505f-8f9e-409d-89e9-3911d2eca5a8)
 
 
 

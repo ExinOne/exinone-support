@@ -3,6 +3,12 @@ title: ExinOne 定投数据与钱包数据差异说明
 layout: article
 ---
 
+## 核对资产
+按照下图的方式，确认自己定投的资产数量
+![depth](/assets/images/findinvestedassets.png)
+记录后，和您自己的钱包账户资产核对，查看差异，然后请自行通过转账流水核查差异原因。
+
+
 ## 定投数据统计原理
 
 ### 定投资产的存放
