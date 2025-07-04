@@ -9,19 +9,17 @@ ExinOne adopts an efficient One-Step service model, directly connecting to APIs 
 
 ## Fee Details
 
-### Stablecoin Version Exchange
-- **Rate**: 0.05%
-- **EPC Deduction**: ✅ Supported
-- **Example**: Exchange between different versions of USDT, only 0.05% handling fee is charged
+### Swap Trading Fees
+- **Stablecoin Version Exchange**: 0.05% fee, ✅ EPC deduction supported
+- **USDC/USDT**: 0.1% fee, ✅ EPC deduction supported
+- **Sell BOX**: 1% fee, ❌ EPC deduction not supported
+- **Other Token Swaps**: 0.2% fee, ✅ EPC deduction supported
 
-### Crypto Trading & Limit orderss
+### Crypto Trading & Limit Orders
 - **Standard Rate**: 0.2%
 - **EPC Deduction**: ✅ Supported
 - **Market/Limit Orders**: Same rate of 0.2% for both
 - **Example**: For ETH/USDT trading, the fee is 0.2% of the transaction amount
-
-### Special Trading Pairs
-- **USDC/USDT**: 0.1% fee, EPC deduction supported
 
 ### BOX Trading Rules
 - **Swap Buy BOX**: 0.2% fee, ✅ EPC deduction supported

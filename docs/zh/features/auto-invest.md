@@ -21,8 +21,8 @@ A：就如同名字所说，省心投专属账户是专门用于定投的账户�
 
 ---
 
-
-
+Q: 怎么将 USDT 转入省心投？
+![savings](/assets/images/tsf2svings.png)
 
 
 

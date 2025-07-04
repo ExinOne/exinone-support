@@ -22,7 +22,9 @@ layout: article
 
 - 活期理财账户也支持定投省心投自动扣款。
 
+## 使用教程
 
+![savings](/assets/images/savings.png)
 
 ## 联系我们
 
