@@ -70,9 +70,7 @@ Depending on the rankings, different proportions of rewards can be obtained:
 >
 > User Peter, ranking 5th, will get 9% of the total reward (150 EPC), so during the daily reward distribution, User A will receive 13.5 EPC.
 
-8. **Borrowing EPC Rewards**: ExinOne offers a stable, fast, and secure borrowing service. if you are using ExinOne's "loans" feature, you will automatically receive an EPC airdrop from ExinOne. For every 100 USDT you borrow, you will receive an airdrop reward of 1 EPC, equivalent to a 0.01% reduction in daily interest on borrowed funds.
-
-9. **Suggestions & Bugs**: We highly value your user experience. If you encounter any issues or have suggestions during your use, please feel free to communicate with us.
+8. **Suggestions & Bugs**: We highly value your user experience. If you encounter any issues or have suggestions during your use, please feel free to communicate with us.
 
 
 
