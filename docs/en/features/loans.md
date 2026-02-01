@@ -12,7 +12,7 @@ ExinOne offers a pledge lending service, where you pledge your assets to ExinOne
 - Trading Accounts
 - Savings
 - ExinPool (assets already in the node)
-- Multi-sign accounts (to be supported soon)
+
 
 In addition to the above accounts, assets in other accounts, such as Mixin Wallet, Auto-Invest Accounts, Delegated Accounts, etc., are not counted as pledged assets.
 
@@ -20,7 +20,7 @@ In addition to the above accounts, assets in other accounts, such as Mixin Walle
 
 **Rates**: As shown on the ExinOne page.
 
-Borrowing Time Limit: Daily interest, repayment as you borrow, the default period is 3650 days, partial repayment or full repayment is supported.
+Borrowing Time Limit: Daily interest, repayment as you borrow, the default period is 365 days, partial repayment or full repayment is supported.
 
 
 
@@ -37,8 +37,7 @@ Borrowing Time Limit: Daily interest, repayment as you borrow, the default perio
 
 **Late Payment**
 
-Failure to repay on the repayment date is considered overdue, and the rate will be rate * 8 per day until the position is automatically closed, so please avoid overdue.
-
+When the loan expires and you have not executed the repayment, ExinOne will automatically renew the loan for you. The interest rate of the renewal will be 0.01% higher than the current loan interest, so please repay as timely as possible. If you can't repay in time, don't worry about the risk of overdue.
 
 
 **Sell Pledged Objects**
