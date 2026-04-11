@@ -6,6 +6,3 @@ layout: article
 
 
 ExinOne => Trade => Fiat
-
-
-

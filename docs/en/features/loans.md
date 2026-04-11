@@ -14,7 +14,7 @@ ExinOne offers a pledge lending service, where you pledge your assets to ExinOne
 - ExinPool (assets already in the node)
 
 
-In addition to the above accounts, assets in other accounts, such as Mixin Wallet, Auto-Invest Accounts, Delegated Accounts, etc., are not counted as pledged assets.
+In addition to the above accounts, assets in other accounts — such as the Mixin Wallet and the AutoInvest Account — are not counted as pledged assets.
 
 
 
@@ -51,6 +51,3 @@ During the borrowing period, the pledged assets may not be traded. If you need t
 Negative assets will not have any practical effect, and you can't borrow coins. Negative assets will not directly cause the position to burst. The position to burst is related to the value of the pledged assets.
 
 If you want to continue borrowing coins, please pledge more assets to make the available assets score positive.
-
-
-

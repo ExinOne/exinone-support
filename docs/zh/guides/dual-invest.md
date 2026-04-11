@@ -8,9 +8,9 @@ layout: article
 
 ### 参与页面
 
-在 ExinOne 的「投资」栏（原定投页面），点击顶部的「双币投资」（定投旁边），即可进入双币投资页面。
+在 ExinOne 的「投资」栏，点击顶部的「双币投资」即可进入双币投资页面。
 
-![alt text](/assets/images/dualinvest.png)
+![dual-invest entry](/assets/images/dual-invest-entry.png)
 
 ### 具体教程
 进入双币投资页面后, 可根据提示指引进行操作投资。
@@ -22,6 +22,3 @@ layout: article
 在投资页面，【目标价格】可以修改，可以选择自己希望的结算日期以及结算价格。
 
 您可以根据自己的风险偏好，选择合适的结算日期和结算价格。
-
-
-

@@ -11,7 +11,7 @@ You can use the "Add Account" feature provided by ExinOne to record your asset s
 
 **What assets does ExinOne default to displaying?**
 
-By default, ExinOne displays the assets in your (new and old) Mixin wallets, Huobi Bao, trading accounts, and assets within ExinPool.
+By default, ExinOne displays the assets in your (new and old) Mixin wallets, Savings, trading accounts, and assets within ExinPool.
 
 **How can I add assets from my other accounts?**
 

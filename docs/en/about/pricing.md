@@ -36,13 +36,13 @@ ExinOne adopts an efficient One-Step service model, directly connecting to APIs 
   - Final charge: 1% fee, EPC deduction not supported
 
 ### Other Services
-- **Auto Invest Plan**: The feature itself is free. Transactions are completed through Swap and charged according to Swap rules. This means buying tokens through Auto Invest Plan costs the same as buying directly through Swap - Auto Invest simply automates the process without additional fees.
+- **AutoInvest**: The feature itself is free. Transactions are completed through Swap and charged according to Swap rules. This means buying tokens through AutoInvest costs the same as buying directly through Swap — AutoInvest simply automates the process without additional fees.
 
 ## EPC Fee Point Card
 
-- **Exchange Ratio**: 100 EPC = $1 fee deduction
+- **Exchange Ratio**: 100 EPC = 1 USDT fee deduction
 - **Usage Method**: Must be deposited to your ExinOne EPC account to be used (located in the EPC account in the upper left corner profile). If EPC balance is insufficient to cover the transaction fee, EPC deduction cannot be applied
-- **Detailed Introduction**: See [EPC Introduction](/features/epc)
+- **Detailed Introduction**: See [EPC Introduction](../features/epc)
 
 ---
 

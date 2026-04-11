@@ -9,7 +9,7 @@ ExinOne is the trading tool you've come to know within Mixin, offering you the s
 
 - Privacy: There is no KYC required to use ExinOne, no need to provide a cell phone number, and you don't even need to be logged in to trade with ExinOne.
   - You can give ExinOne authorization to access additional services: 
-    - Personal information, including Mixin ID, nickname, avatar, etc., used to associate you with trading accounts, current accounts, etc. and related configuration & order information.
+    - Personal information, including Mixin ID, nickname, avatar, etc., used to associate you with Trading Accounts, Savings, etc. and related configuration & order information.
     - (optional) Wallet Balance: Transactions and built-in Mixin wallet to show you your wallet assets balance.
     - (optional) Wallet Flow: for displaying your wallet flow on ExinOne's built-in Mixin wallet.
 
@@ -23,8 +23,71 @@ We would like to introduce you to the ExinOne business model.
 
 **Trading Depth**
 
+Trading depth is a key indicator of market liquidity. It reflects the quantity and distribution of buy and sell orders in the market, particularly the supply-and-demand balance within a given price range.
 
+Definition
 
+Trading depth generally describes how strongly a market's price is affected when it faces a large buy or sell order.
+
+- Deep market: even a large buy or sell has a limited impact on price; the market is relatively stable.
+- Shallow market: a moderately large order can move the price sharply; the market is unstable.
+
+Trading depth is directly related to market liquidity. Better liquidity means deeper trading depth, more densely packed buy/sell orders, and easier price matching.
+
+How trading depth is displayed
+
+Trading depth is usually shown through an order book or a depth chart:
+
+1. Trading depth in the order book
+
+The order book records all unmatched limit orders, including price and quantity.
+
+- Bid depth: the cumulative quantity of buy orders (bids), usually shown on the left side of the order book.
+- Ask depth: the cumulative quantity of sell orders (asks), usually shown on the right side of the order book.
+
+2. Depth chart
+
+A depth chart is a visualization of the distribution of buy/sell orders in the order book.
+
+- X axis: price, representing the price level of each order.
+- Y axis: order quantity, representing the cumulative buy or sell volume at a given price.
+- Green area: bid depth (buying demand).
+- Red area: ask depth (selling pressure).
+
+The smoother the depth-chart curve, the more evenly prices are distributed and the better the market's liquidity. Sharp jumps in the curve may indicate thin orders in a specific price range — a sign of shallow depth.
+
+Factors that affect trading depth
+
+1. Market size and number of participants — Larger markets with more participants tend to have denser order distribution and deeper trading depth.
+2. Asset liquidity — Highly liquid assets (such as Bitcoin or gold) usually have much deeper trading depth, while niche or newly listed assets tend to have shallow depth.
+3. Market sentiment — When sentiment is extreme (panic selling or euphoric buying), trading depth often appears insufficient.
+4. Breadth and density of the order book — Sparsely distributed orders across prices indicate shallow market depth.
+
+Why trading depth matters
+
+1. Price stability — Trading pairs with deeper depth see smoother price changes, which investors find easier to accept. Trading pairs with shallow depth may see sharp price swings from a single large order.
+2. Slippage — When depth is insufficient, large trades can execute far from the expected price, causing slippage.
+3. Trading strategy — Understanding depth helps traders pick the right timing and order placement, especially for large trades.
+
+Example
+
+Assume a market has the following orders:
+
+- Bids:
+  - 10 units at $100
+  - 20 units at $99
+  - 30 units at $98
+- Asks:
+  - 15 units at $101
+  - 25 units at $102
+  - 40 units at $103
+
+The depth of this market looks like this:
+
+- If you want to buy 50 units immediately, the price will move from $101 to $102, because the first ask level only fills 15 units.
+- If depth were deeper (more orders at each price), the price change would be smaller.
+
+In short, trading depth reflects how much volume a market can absorb. A deep market can complete trades more efficiently while reducing price volatility.
 
 **Funding Pool**: ExinOne offers trading and other services held by the capital situation. ExinOne needs to create pools on each exchange, Mixin, and on chain to keep the business running properly.
 
@@ -97,20 +160,18 @@ Therefore, under certain conditions, you may experience a [DelayedRelease](./del
 
 
 
-:::info Tips 
-
-If you are trading a token and ExinOne prompts you that the pool is insufficient and you need to delay the release of the token, and you agree and are waiting, you can check through the bot 7000103056, you will usually see a certain number of top-ups for the relevant coin on the "Top-up" page, this top-up may be ExinOne replenishing the pool, after the top-ups arrive, you will receive the token you purchased .
-
-Also, this bot allows you to check the time when the recharge arrives. If you find that there is no recharge for a long time, you can also consult us for details. 
-
-:::
+> **Tip**
+>
+> If you are trading a token and ExinOne prompts you that the pool is insufficient and you need to delay the release of the token, and you agree and are waiting, you can check through the bot @7000103056 — you will usually see a certain number of top-ups for the relevant coin on the "Top-up" page. This top-up may be ExinOne replenishing the pool; after the top-ups arrive, you will receive the token you purchased.
+>
+> Also, this bot allows you to check the time when the recharge arrives. If you find that there is no recharge for a long time, you can also consult us for details.
 
 
 ## Reasons for "Deposit to trading account only" support
 
 As we all know, Mixin Wallet is a secure decentralized wallet and people are very willing to deposit their assets into Mixin Wallet to store their assets safely, while ExinOne provides a trading account which is a centralized account managed by ExinOne, users naturally worry whether their assets are safe to be stored in the trading account.
 
-Speaking of which, first we need to understand the specifics of trading accounts, see [this article](/features/trading-account), which describes the role of trading accounts:
+Speaking of which, first we need to understand the specifics of trading accounts, see [this article](../features/trading-account), which describes the role of trading accounts:
 
 1. pledge assets to obtain borrowing credits;
 2. provide liquidity to ExinOne;
@@ -121,7 +182,7 @@ As you can see, the trading account essentially provides three functions, which 
 
 **Pledge Borrowing**
 
-ExinOne offers a pledged coin lending service where you can earn a certain amount of "asset points" by pledging assets to your trading account on ExinOne, to your current account, or by participating in ExinPool's node finance, where you can lend up to the same amount of USDT as your asset points.
+ExinOne offers a pledged coin lending service where you can earn a certain amount of "asset points" by pledging assets to your trading account on ExinOne, to Savings, or by participating in ExinPool's node finance, where you can lend up to the same amount of USDT as your asset points.
 
 The assets you pledge to ExinOne will be kept safe by ExinOne, such as BTC. In fact, most of the BTC in ExinOne is kept safe through multi-signature wallets, and only a small amount of BTC is kept in the exchange and Mixin to maintain basic exchange needs. Multi-signature safekeeping.
 
@@ -140,14 +201,14 @@ As you can see above, you have a general understanding of how ExinOne offers tra
 - What happens if the token in question is illiquid?
 - What if Mixin does not support this public chain token?
 
-This is the problem that "[Trading Account](/features/trading-account)" addresses:
+This is the problem that "[Trading Account](../features/trading-account)" addresses:
 
 - Restrict some tokens to be credited to the trading account only, so there is no need to withdraw all coins to Mixin, and users can trade the relevant tokens directly;
 - Solve the problem of trading tokens of public chains that are not supported by Mixin and can be traded freely;
 - Solves the problem that some tokens take too long to fill and withdraw: they can be traded in the trading account;
 - It is even possible that some tokens involve contract swap, airdropping new coins and invalidating the old ones, Mixin itself does not support airdropping, so you can complete this operation through your trading account.
 
-The rationale behind the "credit to trading account only" trading operation is that some (such as ETH, which has been on-chain for too long) or all (such as what you see in your trading account, which is a relatively low value user purchase) of your tokens are stored on the relevant exchange, and ExinOne promises that the assets you purchase that are stored on the relevant exchange will be used for other purposes, but ExinOne cannot guarantee that the assets on the exchange are 100% safe and secure and free of risk.
+The rationale behind the "credit to trading account only" trading operation is that some (such as ETH, which has been on-chain for too long) or all (such as what you see in your trading account, which is a relatively low value user purchase) of your tokens are stored on the relevant exchange. ExinOne promises that the assets you purchase that are stored on the relevant exchange will NOT be used for any other purpose, but ExinOne cannot guarantee that the assets on the exchange are 100% safe and secure and free of risk.
 
 ## Security of the Exchange?
 

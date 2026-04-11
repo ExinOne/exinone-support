@@ -17,6 +17,6 @@ As shown above, the current price of BTC is 30403.19 USDT, if you buy 235188.4 U
 
 For some coins with bad trading depth, as shown below, it's possible that a very low amount could have a big price impact.
 
-![gtdps](/assets/images/gtdps.png)
+![low-depth](/assets/images/lowdepth.png)
 
 Therefore, ExinOne will inform you of the price impact through a pop-up window before you trade, so please understand the price impact before making a judgment.

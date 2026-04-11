@@ -13,20 +13,20 @@ Don't worry. Please follow along with this article. You will have some basic kno
 
 You can compare Mixin Messenger to Telegram. ExinOne is a small application (BOT) inside it. Similar BOTs are ExinPool, MixSwap, MixPay, etc. The Exin team is an early development team of the Mixin ecosystem, running some products independently.
 
-You can find more FAQs in [FAQs](../guides/faq).
+You can find more FAQs in [FAQs](./faq).
 
 
 **How to use the bot**
 
 As shown below, please click on the "🐽" next to the chat box to use it:
 
-![nose](/assets/images/noses.png)
+![start](/assets/images/start.png)
 
 **How can I get more information about Mixin, ExinOne? **
 
 You can get more information from [Mixin's official website](https://mixin.one/).
 
-For an introduction to ExinOne, you can visit [this site](https://exinone.support.com/)
+For an introduction to ExinOne, you can visit [this site](https://exinone.support/)
 
 
 **How to contact the official staff**
@@ -61,18 +61,8 @@ ExinOne provides Swaps, trading (Spot & Limit orders), investment, Savings, borr
 
 EPC is ExinOne's fee point card. In the process of your use of ExinOne.
 
-For the sake of system security, you will be asked to pay a little bit of EPC for authentication, in your first registration to use ExinOne, ExinOne will send you 1 EPC to your Mixin wallet.
+For the sake of system security, you will be asked to pay a small amount of EPC for authentication. When you first register and log in to ExinOne, ExinOne will send 0.99 EPC to your Mixin wallet.
 
-Please make sure you have a small amount of EPC in your Mixin Wallet to ensure that you can use ExinOne services smoothly.
+Please make sure you have a small amount of EPC in your Mixin wallet to ensure that you can use ExinOne services smoothly.
 
-You can get some through the bot 7000105001 if you don't have any EPC. For more information on how to get EPC, check out [EPC](../features/epc.md).
-
-
-
-
-
-
-
-
-
-
+If you don't have any EPC, you can get some through the bot @7000105001. For more ways to obtain EPC, see [EPC](../features/epc).

@@ -34,7 +34,7 @@ Please note: For liquidity reasons, only some or all of the tokens credited to t
 
 Q: What are fee points? 
 
-A: EPC is ExinOne's fee point card. By depositing EPC into the EPC account in the top left corner of ExinOne's avatar, users can deduct transaction fees on ExinOne. 100 EPC can offset a $1 transaction fee.
+A: EPC is ExinOne's fee point card. By depositing EPC into the EPC account in the top-left corner of the ExinOne avatar, users can offset transaction fees on ExinOne. 100 EPC can offset a 1 USDT transaction fee.
 
 See [EPC](./epc)
 

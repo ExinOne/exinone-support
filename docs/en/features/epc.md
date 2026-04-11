@@ -13,7 +13,7 @@ EPC (ExinOne Point Coin) is a reward point on the ExinOne platform used for Exin
 
 ## How to use EPC?
 
-If you wish to use EPC to offset ExinOne’s transaction fees, please deposit your EPC into the EPC account. You can locate it at:
+If you wish to use EPC to offset ExinOne's transaction fees, please deposit your EPC into the EPC account. You can locate it at:
 
 > ExinOne home page top left's avatar -> Fee Card -> Transfer -> Deposit
 >
@@ -21,31 +21,31 @@ If you wish to use EPC to offset ExinOne’s transaction fees, please deposit yo
 
 ❗️Special note: If the EPC you hold is not sufficient to cover the transaction fee, this order will not use EPC for fee offset.
 
-If you are prompted to pay with EPC during trading or when exiting an ExinPool node, you need to ensure your Mixin wallet has enough EPC for payment. EPC in the EPC account can also be transferred out. Simply go to the aforementioned “Transfer” page and select "Withdraw". If you are prompted to pay with EPC during a transaction and currently do not have any EPC, you can refer to the following methods to obtain EPC: 
+If you are prompted to pay with EPC during trading or when exiting an ExinPool node, you need to ensure your Mixin wallet has enough EPC for payment. EPC in the EPC account can also be transferred out. Simply go to the aforementioned "Transfer" page and select "Withdraw". If you are prompted to pay with EPC during a transaction and currently do not have any EPC, you can refer to the following methods to obtain EPC: 
 
 ## How to obtain EPC?
 
 There are many ways to obtain EPC, and the methods are continually increasing. Below are the new channels to acquire EPC.
 
-1. **Daily Sign-in Reward**: Add the robot @7000105001 and send any message to this bot. You can receive 0.001024 EPC daily, which can be used for EPC payments related to transactions.
-2. **First-time Login Reward**: Get 1 EPC as a reward when you authorize and log into ExinOne for the first time.
-3. **ExinPool XIN Node Lock-up Reward**: By participating in XIN node lock-up through ExinPool, for every 10 XIN you lock up, you can receive a daily reward of 1 EPC.
-4. **Share and Earn Commission**: Share ExinOne cards or links with friends. When your friends make a transaction through these cards or links, ExinOne will give you a commission based on the actual transaction fees:
-   1. If the fee is in EPC: You get a commission in EPC.
-   2. If the fee is in another currency: You get a commission in USDT.
-5. **Asset Score Rewards**: ExinOne will air-drop EPC to you based on your asset share. For every 1000 asset score, you can get 1 EPC as an air-drop reward.
-   1. To view your asset share: Go to ExinOne home page top left's avatar -> Asset Score.
-   2. To earn asset shares: Deposit assets into "Trading Account", "Current Treasure", or "ExinPool". ExinOne will then allocate asset shares to you based on the assets' value that you've deposited.
-6. **Task Rewards**:
-   1. First-time Auto Investment: 10 EPC (One-time task).
-   2. Continuous Auto Investment for Two Weeks: 20 EPC (One-time task).
-   3. Continuous Auto Investment for Three Weeks or More (Periodic Task):
-      - Basic Reward: 30 EPC.
-      - Cap Reward: Total investment amount of the previous natural week / 10.
-      - At the start of the Investment Reward Execution: If the currently issued reward is less than the cap reward, then the reward for the next continuous investment will be +2 EPC.
-      - If the issued reward exceeds the cap reward, then the next continuous fixed investment reward will be -2 EPC. The minimum reward is 30 EPC.
-   4. More task rewards will be launched in the future. Stay tuned.
-7. **Trading Account Ranking Rewards**: ExinOne offers "ranking rewards" for tokens with good liquidity. The rewards are given to the top ten users on the respective token leaderboards. Based on the token's liquidity value, the reward quantities for the top ten users are as follows: 
+1. **Daily Sign-in Reward**: Add the bot @7000105001 and send any message to it. You can receive 0.001024 EPC per day, which can be used for EPC payments in transactions.
+
+2. **First-time Login Reward**: Get 0.99 EPC as a reward when you authorize and log into ExinOne for the first time.
+
+3. **Asset Score Rewards**: ExinOne air-drops EPC to you daily based on your asset score. For every 1000 asset score, you receive 1 EPC as an air-drop reward.
+   - To view your asset score: ExinOne home page → top-left avatar → Asset Score.
+   - To earn asset score: Deposit assets into "Trading Account", "Savings", or "ExinPool". ExinOne will allocate an asset score based on the value of the assets you deposit.
+
+4. **Task Rewards**:
+   - First-time AutoInvest: 10 EPC (one-time task).
+   - Continuous AutoInvest for two weeks: 20 EPC (one-time task).
+   - Continuous AutoInvest for three weeks or more (periodic task):
+     - Basic reward: 30 EPC.
+     - Cap reward: total AutoInvest amount in the previous natural week / 10.
+     - At the start of reward execution: if the currently issued reward is less than the cap, the reward for the next continuous AutoInvest period will be +2 EPC.
+     - If the issued reward exceeds the cap, the next reward will be -2 EPC. The minimum reward is 30 EPC.
+   - More task rewards will be launched in the future. Stay tuned.
+
+5. **Trading Account Ranking Rewards**: ExinOne offers "ranking rewards" for tokens with good liquidity. Rewards go to the top ten users on the respective token leaderboards. Based on the token's liquidity value, the total daily reward for the top ten is as follows:
 
 | liquidity     | rewards |
 | ------------- | ------- |
@@ -70,10 +70,6 @@ Depending on the rankings, different proportions of rewards can be obtained:
 >
 > User Peter, ranking 5th, will get 9% of the total reward (150 EPC), so during the daily reward distribution, User Peter will receive 13.5 EPC.
 
-8. **Suggestions & Bugs**: We highly value your user experience. If you encounter any issues or have suggestions during your use, please feel free to communicate with us.
+6. **Suggestions & Bugs**: We highly value your user experience. If you run into any issues or have suggestions while using ExinOne, please feel free to reach out.
 
-
-
-The latest version of this document can be found at [this link](/en/features/epc). Please refer to the content of this link for detailed rules. 
-
-**Please note**: EPC is solely for use in Exin-related operations. All acquisition methods are through gifting, and it is not intended for speculation. ExinOne reserves the right to adjust the methods of obtaining EPC, and the final interpretation belongs to Exin.
+**Please note**: EPC is solely for use in Exin-related operations. All acquisition methods are gifts, and EPC is not intended for speculation. ExinOne reserves the right to adjust the methods of obtaining EPC; the final interpretation belongs to Exin.

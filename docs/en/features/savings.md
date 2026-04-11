@@ -14,14 +14,7 @@ Regarding the uses of Savings for financial management:
 ## Other Information
 
 - Savings is a demand deposit account and will not be locked up, allowing for flexible withdrawals.
-- The interest rate for the savings account is fixed, but may be adjusted based on market fluctuations. Please refer to the corresponding page for the latest information.
-- The savings account also supports automated regular investment plans, which can be set up for automatic deductions.
+- The interest rate for Savings is fixed, but may be adjusted based on market fluctuations. Please refer to the corresponding page for the latest information.
+- Savings also supports AutoInvest plans, which can be set up for automatic deductions.
 
 If you have any further questions, please message the ExinOne bot directly.
-
-
-
-
-
-
-

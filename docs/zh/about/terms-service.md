@@ -7,7 +7,7 @@ lang: zh
 
 本协议最新修订于：2024 年 1 月 16 日
 
-EXINONE CO.,LIMITED 是根据塞舌尔共和国法律设立的公司（以下简称"ExinOne"或"我们"）。本用户服务协议（以下简称"本协议"）由您（用户）与EXINONE CO.,LIMITED 共同签署。
+EXINONE CO.,LIMITED 是根据塞舌尔共和国法律设立的公司（以下简称“ExinOne”或“我们”）。本用户服务协议（以下简称“本协议”）由您（用户）与EXINONE CO.,LIMITED 共同签署。
 
 本协议是您与服务提供商EXINONE CO.,LIMITED 之间就使用任何由 ExinOne，ExinOne API 以及 ExinOne 公司提供的相关服务时，所达成的权力义务关系。
 

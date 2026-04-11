@@ -19,4 +19,4 @@ This is the background of delayed coin release.
 
 **Delayed coin release only affects the arrival speed, not the transaction price.**
 
-You can check the relevant token top-ups via the Mixin Data Robot (7000103056).
+You can check the relevant token top-ups via the Mixin data bot @7000103056.
